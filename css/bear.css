@@ -2,7 +2,7 @@ html {
   background: url(../images/cliff.jpg) no-repeat top left;
 }
 
-@media (max-width: ) {
+@media (min-width: 480px ) {
 
 }
 
